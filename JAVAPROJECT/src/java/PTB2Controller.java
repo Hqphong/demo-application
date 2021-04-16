@@ -10,7 +10,7 @@ import java.awt.event.WindowEvent;
 import javax.swing.JOptionPane;
  
 public class PTB2Controller implements ActionListener {
-    private PTB2View view;
+    private PTB2View view;//sdhfsJDK
     private float hangsoA;
     private float hangsoB;
     private float hangsoC;

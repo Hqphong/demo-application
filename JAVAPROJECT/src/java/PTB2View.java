@@ -13,7 +13,7 @@ public class PTB2View extends JFrame {
     private JTextField textFieldB;
     private JTextField textFieldC;
     private JButton btnKetQua;
-    private JTextArea textArea;
+    private JTextArea textArea;//sjdhfsjk
  
     public PTB2View() {
         setTitle("Java Swing - giải phương trình bậc 2");
