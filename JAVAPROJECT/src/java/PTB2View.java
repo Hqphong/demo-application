@@ -94,6 +94,6 @@ public class PTB2View extends JFrame {
     }
  
     public void setTextArea(JTextArea textArea) {
-        this.textArea = textArea;//sd
+        this.textArea = textArea;//sddfs
     }
 }

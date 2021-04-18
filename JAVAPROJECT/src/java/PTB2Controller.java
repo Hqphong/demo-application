@@ -21,7 +21,7 @@ public class PTB2Controller implements ActionListener {
         view.addWindowListener(new WindowAdapter() {
             @Override
             public void windowClosing(WindowEvent e) {
-                System.exit(1);//dfs
+                System.exit(1);//dfsdsf
             }
         });
     }
